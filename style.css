@@ -1,0 +1,70 @@
+body{
+    background-color: #E5E5E5;
+}
+.navbar img{
+    width: 40.42px;
+}
+div.container-fluid , section.sec-2{
+    max-width: 870px;
+}
+section.sec-2{
+    margin-top: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.navbar{
+    background-color: #562EFF;
+}
+.navbar ul li a{
+    font-size: 16px;
+    margin-top: 14px;
+}
+.navbar ul li{
+    margin-left: 30px;
+}
+ul.navbar-nav{
+    margin-left: auto;
+}
+.player img{
+    width: 56px;
+}
+.sec-1{
+    max-width: 870px;
+}
+.play{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.name{
+    margin-left: 20px;
+}
+.blog-pic{
+    width: 177px;
+    margin-bottom: 30px;
+}
+.box{
+    width: 94.83px;
+    height: 29.38px;
+    border-radius: 14.69px;
+    background: #FFE4E8;
+    border: 2px solid none;
+}
+.blog-h2{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 34px;
+    margin-left: 10px;
+}
+.blog-p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 10px;
+}
+
+@media only screen and (max-width: 768px){
+    h3{
+        text-align: center;
+    }
+}
